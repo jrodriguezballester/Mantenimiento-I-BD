@@ -14,13 +14,15 @@ Si usais MySQL, debeis adjuntar el script correspondiente.
 
 ## Resultado
 
+<https://github.com/jrodriguezballester/Mantenimiento-I-BD.git>
+
   Se realiza con una base de datos MySQL cuyo script se encuentra en la raiz del proyecto: dbescuela.sql
 
 ### Vista
 
 Se realiza el siguiente formulario
 
-![ ](\Imagenes\cap1.png)
+![ ](Imagenes\cap1.png)
 
 Donde podemos observar:
 
