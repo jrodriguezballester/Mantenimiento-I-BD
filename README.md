@@ -22,7 +22,7 @@ Si usais MySQL, debeis adjuntar el script correspondiente.
 
 Se realiza el siguiente formulario
 
-![ ](Imagenes\cap1.png)
+![ ](Imagenes/cap1.png)
 
 Donde podemos observar:
 
